@@ -1,4 +1,4 @@
-# Человек Яйца (Язык Программирование)
+# Человек Яйца (Язык Программирование в основе на Python)
 ![ab67616d0000b2735c0bfd5fb5efbb93d7a5bb27](https://github.com/user-attachments/assets/46281946-5498-43ed-82d0-ee07b7b9c619)
 
 
